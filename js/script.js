@@ -6,8 +6,5 @@ switcher.addEventListener('click', () => {
   const className = document.body.className;
     if (className === '') {
         this.textContent = 'modo-escuro';
-    } else {
-        
-    } 
-    console.log(className);
+    }
 });
