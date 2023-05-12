@@ -17,11 +17,13 @@ header{
   display: flex;
   justify-content: space-between;
   padding: 25px;
+  
 }
  
 header .logo,
 header .imagem-botao{
   width: 30px;
+  position: fixed;
 }
 
 header #botao-alterar-tema{
