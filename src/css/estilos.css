@@ -98,6 +98,7 @@ main .cartao-digimon .tipos{
 .level li{
   padding: 8px;
   border-radius: 10px;
+  margin-bottom: 8px;
 }
 
 .in_training{
